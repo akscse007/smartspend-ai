@@ -8,6 +8,6 @@ python-multipart==0.0.19
 PyJWT==2.10.1
 joblib==1.4.2
 python-dateutil==2.9.0.post0
-torch==2.7.0; python_version >= "3.10"
-scikit-learn==1.5.2; python_version < "3.14"
-pandas==2.2.3; python_version < "3.14"
+torch==2.5.1
+scikit-learn==1.5.2
+pandas==2.2.3
